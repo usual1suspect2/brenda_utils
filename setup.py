@@ -6,5 +6,5 @@ setup(
     version='0.1',
     url='https://github.com/usual1suspect2/brenda_utils',
     author='brenda',
-    keywords=['pip','brenda-utils']
+    keywords=['pip','brenda_utils']
     )
